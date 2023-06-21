@@ -1,4 +1,41 @@
-# DesenvolvimentoAndroid
-Criado para apresentar os projetos feitos e aprendidos no curso de Desenvolvimento Android da Udemy. Explore as outras Branchs com os projetos desenvolvidos.
+# Desenvolvimento Android  - Projeto App Sorteio
 
-Foi Aprendido a criação de Apps profissionais para Android usando Java e Kotlin, serviços de desenvolvimento de Apps para Android, Layouts: XML, temas, constraint layout, interface Netflix,Java: variáveis, condicionais, loops,classes e objetos, Interface: caixa de texto, seleção, botão, alert dialog e outros,Listagem: list view, reciclerview, cardview e etc
+Atenção: Explore as outras branchs com outros projetos.
+
+## Table of contents
+
+- [Visão Geral](#visão-geral)
+  - [Captura de Tela](#captura-de-tela)
+  - [Links](#links)
+- [Meu processo](#meu-processo)
+  - [Construído com](#construído-com)
+  - [O que eu aprendi](#o-que-eu-aprendi)
+- [Autor](#autor)
+
+
+
+## Visão Geral
+    Este foi um projeto criado com Java, basicamente criei um App de sorteio  com dois parâmetros para saber o número da onde começar a sortear e até que número sortear.
+
+### Captura de Tela
+
+![](/screenshot/foto.png)
+
+### Links
+
+
+## Meu processo
+
+### Construído com
+
+
+
+### O que eu aprendi
+
+  Neste projeto eu revisei as maneiras de criação de cabeçalhos,parágrafos, formatação de textos, imagens, links e tabelas etc.
+
+
+
+## Autor
+
+- Github - [@devbrunolucas](https://github.com/devbrunolucas)
