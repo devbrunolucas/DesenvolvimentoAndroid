@@ -27,12 +27,13 @@ Atenção: Explore as outras branchs com outros projetos.
 ## Meu processo
 
 ### Construído com
-
+          Java;
+          AndroidStudio;
 
 
 ### O que eu aprendi
 
-  Neste projeto eu revisei as maneiras de criação de cabeçalhos,parágrafos, formatação de textos, imagens, links e tabelas etc.
+  Neste projeto eu revisei as maneiras de criação de textos,botões, eventos onclick, lógica de programação  e etc.
 
 
 
