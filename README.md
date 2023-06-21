@@ -1,4 +1,4 @@
-# Desenvolvimento Android  - Projeto App Netflix
+# Desenvolvimento Android  - Projeto App Frases do dia
 
 Atenção: Explore as outras branchs com outros projetos.
 
@@ -15,7 +15,7 @@ Atenção: Explore as outras branchs com outros projetos.
 
 
 ## Visão Geral
-    Este foi um projeto criado com desenvolvimento java mobile, basicamente criei uma App interface da netflix home de um filme ou uma série.
+    Este foi um projeto criado com desenvolvimento java mobile, basicamente criei uma App para mostrar frases aleatórias motivacionais para  melhorar seu dia.
 
 ### Captura de Tela
 
@@ -33,7 +33,7 @@ Atenção: Explore as outras branchs com outros projetos.
 
 ### O que eu aprendi
 
-  Neste projeto eu revisei as maneiras de criação e conceitos de Xml,Orientação da tela, Constraint Layout, imagens,cores,linhas guias,Layout relativo e etc.
+  Neste projeto eu revisei as maneiras de criação e conceitos de repetição,variáveis, constantes, operadores relacionais lógicos, Estrutura condicionais, Arrays e etc.
 
 
 
