@@ -1,4 +1,4 @@
-# Desenvolvimento Android  - Projeto App Frases do dia
+# Desenvolvimento Android  - Projeto App Pedra, papel ou tesoura
 
 Atenção: Explore as outras branchs com outros projetos.
 
@@ -15,7 +15,7 @@ Atenção: Explore as outras branchs com outros projetos.
 
 
 ## Visão Geral
-    Este foi um projeto criado com desenvolvimento java mobile, basicamente criei uma App para mostrar frases aleatórias motivacionais para  melhorar seu dia.
+    Este foi um projeto criado com desenvolvimento java mobile, basicamente criei uma App com simples jogo de pedra, papel ou tesoura.
 
 ### Captura de Tela
 
@@ -33,7 +33,7 @@ Atenção: Explore as outras branchs com outros projetos.
 
 ### O que eu aprendi
 
-  Neste projeto eu revisei as maneiras de criação e conceitos de repetição,variáveis, constantes, operadores relacionais lógicos, Estrutura condicionais, Arrays e etc.
+  Neste projeto eu revisei as maneiras de criação e conceitos de repetição,variáveis, constantes, operadores relacionais lógicos, Estrutura condicionais, Arrays, herança, modificadores de acesso, classes, parâmetros,Objetos e etc.
 
 
 
