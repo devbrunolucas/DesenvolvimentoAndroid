@@ -1,2 +1,2 @@
 # DesenvolvimentoAndroid
-Criado para apresentar os projetos feitos e aprendidos no curso de Desenvolvimento Web da Udemy. Explorar como ramificações
+Criado para apresentar os projetos feitos e aprendidos no curso de Desenvolvimento Android da Udemy. Foi  Explorar como ramificações
