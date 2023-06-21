@@ -1,4 +1,4 @@
-# Desenvolvimento Android  - Projeto App Notícia
+# Desenvolvimento Android  - Projeto App Netflix
 
 Atenção: Explore as outras branchs com outros projetos.
 
@@ -15,7 +15,7 @@ Atenção: Explore as outras branchs com outros projetos.
 
 
 ## Visão Geral
-    Este foi um projeto criado com Java, basicamente criei um App de Notícia   para mostrar ao usuário informações de qualquer ramo de notícia.
+    Este foi um projeto criado com desenvolvimento java mobile, basicamente criei uma App interface da netflix home de um filme ou uma série.
 
 ### Captura de Tela
 
@@ -33,7 +33,7 @@ Atenção: Explore as outras branchs com outros projetos.
 
 ### O que eu aprendi
 
-  Neste projeto eu revisei as maneiras de criação e conceitos de Xml,Orientação da tela, Constraint Layout imagens e etc.
+  Neste projeto eu revisei as maneiras de criação e conceitos de Xml,Orientação da tela, Constraint Layout, imagens,cores,linhas guias,Layout relativo e etc.
 
 
 
