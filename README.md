@@ -19,7 +19,7 @@ Atenção: Explore as outras branchs com outros projetos.
 
 ### Captura de Tela
 
-![](/screenshot/foto.png)
+![](/screenshot/foto.jpeg)
 
 ### Links
 
