@@ -1,4 +1,4 @@
-# Desenvolvimento Android  - Projeto App Sorteio
+# Desenvolvimento Android  - Projeto App Notícia
 
 Atenção: Explore as outras branchs com outros projetos.
 
@@ -15,7 +15,7 @@ Atenção: Explore as outras branchs com outros projetos.
 
 
 ## Visão Geral
-    Este foi um projeto criado com Java, basicamente criei um App de sorteio  com dois parâmetros para saber o número da onde começar a sortear e até que número sortear.
+    Este foi um projeto criado com Java, basicamente criei um App de Notícia   para mostrar ao usuário informações de qualquer ramo de notícia.
 
 ### Captura de Tela
 
@@ -33,7 +33,7 @@ Atenção: Explore as outras branchs com outros projetos.
 
 ### O que eu aprendi
 
-  Neste projeto eu revisei as maneiras de criação de textos,botões, eventos onclick, lógica de programação  e etc.
+  Neste projeto eu revisei as maneiras de criação e conceitos de Xml,Orientação da tela, Constraint Layout imagens e etc.
 
 
 
