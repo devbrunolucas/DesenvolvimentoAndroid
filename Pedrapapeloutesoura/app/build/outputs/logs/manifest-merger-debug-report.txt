@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\e191ea8d4755f03a4f4a2f9714242f06\appcompat-v7-25.4.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\fdf08a5e41874bdb047d540ccbc60022\constraint-layout-1.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\7f6382332751f1d296d4a582191a194c\animated-vector-drawable-25.4.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\b78b0d8a112d66e74b9d8fb6341eda44\support-vector-drawable-25.4.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\37c2ec3488784becf8dab24c58a879bc\support-v4-25.4.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\73cb9d4a661a959df1ac2de675266415\support-fragment-25.4.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\c57c7e01cbef86cc72a6c17225f2083c\support-media-compat-25.4.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\443624a2d2314ccbe2b6633d9478cac2\support-core-utils-25.4.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\22b60f229c5bcde3d6eeea6c53d4bdef\support-core-ui-25.4.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\987ef8e0a787d1da76e776b93fcb7b97\support-compat-25.4.0\AndroidManifest.xml:17:1-31:12
+INJECTED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml
+		ADDED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml
+		ADDED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\e191ea8d4755f03a4f4a2f9714242f06\appcompat-v7-25.4.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\e191ea8d4755f03a4f4a2f9714242f06\appcompat-v7-25.4.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\fdf08a5e41874bdb047d540ccbc60022\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\fdf08a5e41874bdb047d540ccbc60022\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\7f6382332751f1d296d4a582191a194c\animated-vector-drawable-25.4.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\7f6382332751f1d296d4a582191a194c\animated-vector-drawable-25.4.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\b78b0d8a112d66e74b9d8fb6341eda44\support-vector-drawable-25.4.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\b78b0d8a112d66e74b9d8fb6341eda44\support-vector-drawable-25.4.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\37c2ec3488784becf8dab24c58a879bc\support-v4-25.4.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\37c2ec3488784becf8dab24c58a879bc\support-v4-25.4.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\73cb9d4a661a959df1ac2de675266415\support-fragment-25.4.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\73cb9d4a661a959df1ac2de675266415\support-fragment-25.4.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\c57c7e01cbef86cc72a6c17225f2083c\support-media-compat-25.4.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\c57c7e01cbef86cc72a6c17225f2083c\support-media-compat-25.4.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\443624a2d2314ccbe2b6633d9478cac2\support-core-utils-25.4.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\443624a2d2314ccbe2b6633d9478cac2\support-core-utils-25.4.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\22b60f229c5bcde3d6eeea6c53d4bdef\support-core-ui-25.4.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\22b60f229c5bcde3d6eeea6c53d4bdef\support-core-ui-25.4.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\987ef8e0a787d1da76e776b93fcb7b97\support-compat-25.4.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\987ef8e0a787d1da76e776b93fcb7b97\support-compat-25.4.0\AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.cursoandroid.pedrapapeloutesoura.MainActivity
+ADDED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml
+INJECTED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\e191ea8d4755f03a4f4a2f9714242f06\appcompat-v7-25.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\e191ea8d4755f03a4f4a2f9714242f06\appcompat-v7-25.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\fdf08a5e41874bdb047d540ccbc60022\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\fdf08a5e41874bdb047d540ccbc60022\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\7f6382332751f1d296d4a582191a194c\animated-vector-drawable-25.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\7f6382332751f1d296d4a582191a194c\animated-vector-drawable-25.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\b78b0d8a112d66e74b9d8fb6341eda44\support-vector-drawable-25.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\b78b0d8a112d66e74b9d8fb6341eda44\support-vector-drawable-25.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\37c2ec3488784becf8dab24c58a879bc\support-v4-25.4.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\37c2ec3488784becf8dab24c58a879bc\support-v4-25.4.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\73cb9d4a661a959df1ac2de675266415\support-fragment-25.4.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\73cb9d4a661a959df1ac2de675266415\support-fragment-25.4.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\c57c7e01cbef86cc72a6c17225f2083c\support-media-compat-25.4.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\c57c7e01cbef86cc72a6c17225f2083c\support-media-compat-25.4.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\443624a2d2314ccbe2b6633d9478cac2\support-core-utils-25.4.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\443624a2d2314ccbe2b6633d9478cac2\support-core-utils-25.4.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\22b60f229c5bcde3d6eeea6c53d4bdef\support-core-ui-25.4.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\22b60f229c5bcde3d6eeea6c53d4bdef\support-core-ui-25.4.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\987ef8e0a787d1da76e776b93fcb7b97\support-compat-25.4.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\987ef8e0a787d1da76e776b93fcb7b97\support-compat-25.4.0\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml
+INJECTED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\e191ea8d4755f03a4f4a2f9714242f06\appcompat-v7-25.4.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml
+		ADDED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml
+		ADDED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ProjetosAndroidStudio\Pedrapapeloutesoura\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\e191ea8d4755f03a4f4a2f9714242f06\appcompat-v7-25.4.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\7f6382332751f1d296d4a582191a194c\animated-vector-drawable-25.4.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\7f6382332751f1d296d4a582191a194c\animated-vector-drawable-25.4.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\b78b0d8a112d66e74b9d8fb6341eda44\support-vector-drawable-25.4.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\b78b0d8a112d66e74b9d8fb6341eda44\support-vector-drawable-25.4.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\37c2ec3488784becf8dab24c58a879bc\support-v4-25.4.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\37c2ec3488784becf8dab24c58a879bc\support-v4-25.4.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\73cb9d4a661a959df1ac2de675266415\support-fragment-25.4.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\73cb9d4a661a959df1ac2de675266415\support-fragment-25.4.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\c57c7e01cbef86cc72a6c17225f2083c\support-media-compat-25.4.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\c57c7e01cbef86cc72a6c17225f2083c\support-media-compat-25.4.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\443624a2d2314ccbe2b6633d9478cac2\support-core-utils-25.4.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\443624a2d2314ccbe2b6633d9478cac2\support-core-utils-25.4.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\22b60f229c5bcde3d6eeea6c53d4bdef\support-core-ui-25.4.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\22b60f229c5bcde3d6eeea6c53d4bdef\support-core-ui-25.4.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\987ef8e0a787d1da76e776b93fcb7b97\support-compat-25.4.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\987ef8e0a787d1da76e776b93fcb7b97\support-compat-25.4.0\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\e191ea8d4755f03a4f4a2f9714242f06\appcompat-v7-25.4.0\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\claud\.gradle\caches\transforms-2\files-2.1\e191ea8d4755f03a4f4a2f9714242f06\appcompat-v7-25.4.0\AndroidManifest.xml:27:13-51

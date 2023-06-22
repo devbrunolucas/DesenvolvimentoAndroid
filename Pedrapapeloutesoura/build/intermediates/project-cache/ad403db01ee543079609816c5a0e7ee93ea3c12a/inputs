@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=/Users/jamiltondamasceno/Documents/projetos/ProjetosA/0-fontes/Pedrapapeloutesoura/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar
+FILE_HASH=cccc3d68a9c83b430e57ca77552eff2188c42ece
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true
